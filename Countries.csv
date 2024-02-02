@@ -1,0 +1,204 @@
+country_code,country,IMF_count
+ABW,Aruba,314
+AFG,Afghanistan,512
+AGO,Angola,614
+ALB,Albania,914
+ARE,United Arab Emirates,466
+ARG,Argentina,213
+ARM,Armenia,911
+ATG,Antigua and Barbuda,311
+AUS,Australia,193
+AUT,Austria,122
+AZE,Azerbaijan,912
+BDI,Burundi,618
+BEL,Belgium,124
+BEN,Benin,638
+BFA,Burkina Faso,748
+BGD,Bangladesh,513
+BGR,Bulgaria,918
+BHR,Bahrain,419
+BHS,"Bahamas, The",313
+BIH,Bosnia and Herzegovina,963
+BLR,Belarus,913
+BLZ,Belize,339
+BOL,Bolivia,218
+BRA,Brazil,223
+BRB,Barbados,316
+BRN,Brunei Darussalam,516
+BTN,Bhutan,514
+BWA,Botswana,616
+CAF,Central African Republic,626
+CAN,Canada,156
+CHE,Switzerland,146
+CHL,Chile,228
+CHN,China,924
+CIV,Côte d'Ivoire,662
+CMR,Cameroon,622
+COD,"Congo, Dem. Rep.",636
+COG,"Congo, Rep.",634
+COL,Colombia,233
+COM,Comoros,632
+CPV,Cabo Verde,624
+CRI,Costa Rica,238
+CUW,Curacao,354
+CYM,Cayman Islands,136
+CYP,Cyprus,423
+CZE,Czech Republic,935
+DEU,Germany,134
+DJI,Djibouti,611
+DMA,Dominica,321
+DNK,Denmark,128
+DOM,Dominican Republic,243
+DZA,Algeria,612
+ECU,Ecuador,248
+EGY,"Egypt, Arab Rep.",469
+ERI,Eritrea,643
+ESP,Spain,184
+EST,Estonia,939
+ETH,Ethiopia,644
+FIN,Finland,172
+FJI,Fiji,819
+FRA,France,132
+FSM,"Micronesia, Fed. Sts.",868
+GAB,Gabon,646
+GBR,United Kingdom,112
+GEO,Georgia,915
+GHA,Ghana,652
+GIN,Guinea,656
+GMB,"Gambia, The",648
+GNB,Guinea-Bissau,654
+GNQ,Equatorial Guinea,642
+GRC,Greece,174
+GRD,Grenada,328
+GTM,Guatemala,258
+GUY,Guyana,336
+HKG,"Hong Kong SAR, China",532
+HND,Honduras,268
+HRV,Croatia,960
+HTI,Haiti,263
+HUN,Hungary,944
+IDN,Indonesia,536
+IND,India,534
+IRL,Ireland,178
+IRN,"Iran, Islamic Rep.",429
+IRQ,Iraq,433
+ISL,Iceland,176
+ISR,Israel,436
+ITA,Italy,136
+JAM,Jamaica,343
+JOR,Jordan,439
+JPN,Japan,158
+KAZ,Kazakhstan,916
+KEN,Kenya,664
+KGZ,Kyrgyz Republic,917
+KHM,Cambodia,522
+KIR,Kiribati,826
+KNA,St. Kitts and Nevis,361
+KOR,"Korea, Rep.",542
+KWT,Kuwait,443
+LAO,Lao PDR,544
+LBN,Lebanon,446
+LBR,Liberia,668
+LBY,Libya,672
+LCA,St. Lucia,362
+LIE,Liechtenstein,423
+LKA,Sri Lanka,524
+LSO,Lesotho,666
+LTU,Lithuania,946
+LUX,Luxembourg,137
+LVA,Latvia,941
+MAC,"Macao SAR, China",546
+MAR,Morocco,686
+MDA,Moldova,921
+MDG,Madagascar,674
+MDV,Maldives,556
+MEX,Mexico,273
+MHL,Marshall Islands,867
+MKD,"Macedonia, FYR",962
+MLI,Mali,678
+MLT,Malta,181
+MMR,Myanmar,518
+MNE,Montenegro,943
+MNG,Mongolia,948
+MOZ,Mozambique,688
+MRT,Mauritania,682
+MSR,Montserratit,664
+MTQ,Martinique,474
+MUS,Mauritius,684
+MWI,Malawi,676
+MYS,Malaysia,548
+NAM,Namibia,728
+NCL,New Caledonia,687
+NER,Niger,692
+NGA,Nigeria,694
+NIC,Nicaragua,278
+NIU,Niue,570
+NLD,Netherlands,138
+NOR,Norway,142
+NPL,Nepal,558
+NRU,Nauru,836
+NZL,New Zealand,196
+OMN,Oman,449
+PAK,Pakistan,564
+PAN,Panama,283
+PER,Peru,293
+PHL,Philippines,566
+PLW,Palau,565
+PNG,Papua New Guinea,853
+POL,Poland,964
+PRI,Puerto Rico,359
+PRT,Portugal,182
+PRY,Paraguay,288
+PSE,West Bank and Gaza,488
+QAT,Qatar,453
+ROU,Romania,968
+RUS,Russian Federation,922
+RWA,Rwanda,714
+SAU,Saudi Arabia,456
+SDN,Sudan,732
+SEN,Senegal,722
+SGP,Singapore,576
+SHN,Saint Helena,654
+SLB,Solomon Islands,813
+SLE,Sierra Leone,724
+SLV,El Salvador,253
+SMR,San Marino,135
+SRB,Serbia,942
+SSD,South Sudan,733
+STP,São Tomé and Principe,716
+SUR,Suriname,366
+SVK,Slovak Republic,936
+SVN,Slovenia,961
+SWE,Sweden,144
+SWZ,Swaziland,734
+SYC,Seychelles,718
+SYR,Syrian Arab Republic,463
+TCA,Turks and Caicos Islands,796
+TCD,Chad,628
+TGO,Togo,742
+THA,Thailand,578
+TJK,Tajikistan,923
+TKM,Turkmenistan,925
+TLS,Timor-Leste,537
+TON,Tonga,866
+TTO,Trinidad and Tobago,369
+TUN,Tunisia,744
+TUR,Turkey,186
+TUV,Tuvalu,869
+TZA,Tanzania,738
+UGA,Uganda,746
+UKR,Ukraine,926
+URY,Uruguay,298
+USA,United States,111
+UZB,Uzbekistan,927
+VCT,St. Vincent and the Grenadines,364
+VEN,"Venezuela, RB",299
+VGB,British Virgin Islands,284
+VNM,Vietnam,582
+VUT,Vanuatu,846
+WSM,Samoa,862
+XXK,Kosovo,383
+YEM,"Yemen, Rep.",474
+ZAF,South Africa,199
+ZMB,Zambia,754
+ZWE,Zimbabwe,698
